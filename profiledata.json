@@ -1,0 +1,44 @@
+{
+  "doctor": {
+    "age": null,
+    "created_at": "2024-04-19T16:32:40.000000Z",
+    "description": null,
+    "doctor_personal_id": 263828461,
+    "id": 19,
+    "image": null,
+    "price": null,
+    "rate": null,
+    "re-examination_price": "0.00",
+    "specialization": "Mob doc test",
+    "status": "pending",
+    "updated_at": "2024-04-19T16:32:40.000000Z",
+    "user_id": 48
+  },
+  "user": {
+    "created_at": "2024-04-19T16:32:40.000000Z",
+    "doctor": {
+      "age": null,
+      "created_at": "2024-04-19T16:32:40.000000Z",
+      "description": null,
+      "doctor_personal_id": 263828461,
+      "id": 19,
+      "image": null,
+      "price": null,
+      "rate": null,
+      "re-examination_price": "0.00",
+      "specialization": "Mob doc test",
+      "status": "pending",
+      "updated_at": "2024-04-19T16:32:40.000000Z",
+      "user_id": 48
+    },
+    "email": "mobdoc@mail.com",
+    "first_name": "Mobile",
+    "gender": "male",
+    "id": 48,
+    "last_name": "Doc",
+    "middle_name": null,
+    "updated_at": "2024-04-19T16:32:40.000000Z",
+    "user_name": "mobdoc@mail.com",
+    "user_type": "doctor"
+  }
+}

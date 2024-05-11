@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "DR.AI",
+    "slug": "dr-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "description": "DR.AI is an AI-based healthcare platform that provides comprehensive healthcare services and diagnostics. Our platform is designed to revolutionize the way healthcare providers manage patient care.",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ahmedfathiaboelanin.drai"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e77b163c-e061-47a1-aea1-bc06548c885b"
+      }
+    },
+    "owner": "ahmedfathiaboelanin",
+    "permissions": [
+      "ACCESS_FINE_LOCATION"
+    ]
+
+  }
+}
